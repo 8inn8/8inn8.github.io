@@ -5,3 +5,5 @@ plugins:
 title: [dualmesh is more than duality, it is Pedro Jorge]
 description: [There's more to reason than thinking, there's everything at a glance, from Mathematics to AI, that's why I am here for]
 show_downloads: [true]
+github:
+  cv_url: https://github.com/dualmesh/dualmesh.github.io/blob/cfd77184406067eaeb385d167424aff2e1a28924/cv_pedro_jorge_2022.pdf
