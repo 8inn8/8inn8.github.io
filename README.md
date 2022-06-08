@@ -1,6 +1,6 @@
 # Introduction
 
-I am a grad-student from Mathematics coding since 2007. I also learned deep learning (tensorflow) techniques in 2016, which made me aspire to my most inner essence, become a ML engineer.
+I am a grad-student from Mathematics coding since 2007. I also learned deep learning (tensorflow) techniques in 2016, which made me aspire to my most inner essence: becoming a ML engineer.
 
 # Courses
 
